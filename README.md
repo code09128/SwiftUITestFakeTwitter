@@ -6,6 +6,11 @@ https://firebase.google.com/docs/ios/setup#swiftui
 ## Firestore data with Swift
 https://firebase.google.com/docs/firestore/solutions/swift-codable-data-mapping
 
+Firebase creates a new project
+<div  align="left">
+<img src="https://github.com/code09128/SwiftUITestFakeTwitter/assets/32324308/1b401344-1182-409b-8fba-eda87958ca4d" width="450px"/>
+</div>
+
 We need to use Firebase service API as below:
 - Authentication
 - Firestore Database 
